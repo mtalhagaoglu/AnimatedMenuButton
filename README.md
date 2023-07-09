@@ -1,1 +1,1 @@
-![](https://github.com/mtalhagaoglu/AnimatedMenuButton/preview.gif)
+![](https://github.com/mtalhagaoglu/AnimatedMenuButton/blob/main/preview.gif)
